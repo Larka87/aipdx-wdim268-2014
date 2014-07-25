@@ -3,7 +3,7 @@
 1. Fork this repo into your own GitHub repo.
 1. Clone this to your own computer with `git clone git@github.com:YOURUSERNAME/aipdx-wdim268-2013.git`
 1. Do one of the in-class git tutorials.
-1. Paste a link HERE showing a screenshot of the final exercise: http://s29.postimg.org/bdthdpvjr/octocat.jpg <--Bow down to Octocat! Mewmew git.
+1. Paste a link HERE showing a screenshot of the final exercise: !!PUT YOUR LINK HERE!!
 1. Git add this file: `git add README.md`
 1. Git commit this file: `git commit -m "proof i did stuff in class"`
 1. Git push this file back to your GitHub: `git push origin master`
@@ -19,7 +19,3 @@ In your cloned folder week_02/dummy_site, make me a simple "lorem ipsum" website
 1. One javascript file called "script.js".
 
 Feel free to muck around with whatever sparklies you want in these files. Push these files back up to your repo.
-
-
-/\__/\ 
-(=^_^=)
